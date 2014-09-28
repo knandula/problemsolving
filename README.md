@@ -1,4 +1,5 @@
 problemsolving
 ==============
 
-my passion to become a good programmer.
+This list describes all the problems which are solved from various programming sites like , spoj , codechef , hacker rank etc.,
+
