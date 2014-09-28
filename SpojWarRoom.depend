@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1411567559 source:c:\start\spojwarroom\main.cpp
+
+1411567568 source:c:\start\spojwarroom\addrev.cpp
+
+1411582184 source:c:\start\spojwarroom\fctrl.cpp
+
+1411723961 source:c:\start\spojwarroom\fctrl2.cpp
+	<iostream>
+
+1411915490 source:c:\start\spojwarroom\primegenerator.cpp
+	<cmath>
+	<iostream>
+
+1411915478 source:c:\start\spojwarroom\pg.cpp
+	<bits/stdc++.h>
+	<iostream>
+
+1411929272 source:c:\start\spojwarroom\transfrmthexp.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stack>
+
