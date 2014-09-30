@@ -36,7 +36,13 @@
 		<Unit filename="FCTRL.cpp" />
 		<Unit filename="FCTRL2.cpp" />
 		<Unit filename="PrimeGenerator.cpp" />
+		<Unit filename="fey.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="feynman.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="nsteps.cpp" />
+		<Unit filename="transfrmthexp.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

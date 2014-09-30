@@ -1,10 +1,10 @@
-#include<bits/stdc++.h>
+/*#include<bits/stdc++.h>
 #include<iostream>
 #include<stack>
 
 using namespace std;
 
-/* krishna*/
+
 int main()
 {
     int t;
@@ -35,4 +35,4 @@ int main()
     return 0;
 }
 
-
+*/
