@@ -23,8 +23,16 @@
 1412045468 source:c:\start\spojwarroom\nsteps.cpp
 	<iostream>
 
-1412046541 source:c:\start\spojwarroom\feynman.cpp
-	<iostream>
+1412074835 source:c:\start\spojwarroom\feynman.cpp
+	<stdio.h>
 
 1412046667 source:c:\start\spojwarroom\fey.c
+
+1412607758 source:c:\start\spojwarroom\toandfro.cpp
+	<iostream>
+
+1412607736 source:c:\start\spojwarroom\whatsnext.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<stdio.h>
 

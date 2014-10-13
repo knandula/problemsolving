@@ -42,7 +42,9 @@
 		<Unit filename="feynman.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="nsteps.cpp" />
+		<Unit filename="toandfro.cpp" />
 		<Unit filename="transfrmthexp.cpp" />
+		<Unit filename="whatsnext.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
